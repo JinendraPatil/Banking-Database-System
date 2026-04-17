@@ -134,28 +134,28 @@ END;
 
 This Banking Database System project successfully demonstrates how relational databases can be used to manage and analyze financial data efficiently using Oracle SQL and PL/SQL.
 
-* Key Findings
-Efficient Data Management:
+### Key Findings
+* Efficient Data Management:
 The structured schema (Customers, Accounts, Transactions) ensures organized storage and easy retrieval of banking data.
-Accurate Balance Tracking:
+* Accurate Balance Tracking:
 Using SQL aggregations and conditional logic, account balances can be dynamically calculated from transaction history, ensuring reliability.
-Fraud Detection Insights:
-The system can identify:
-High-value transactions (potential risk)
-Unusual transaction frequency
-Accounts with negative balances
+* Fraud Detection Insights:
+The system can identify:-
+High-value transactions (potential risk),
+Unusual transaction frequency,
+Accounts with negative balances.
 This shows how SQL can be used for basic fraud monitoring.
-Use of ACID Properties:
-Transaction control using COMMIT and ROLLBACK ensures:
-Data consistency
-Safe financial operations
+* Use of ACID Properties:
+Transaction control using COMMIT and ROLLBACK ensures:-
+Data consistency,
+Safe financial operations,
 Error recovery capability
-PL/SQL Automation:
+* PL/SQL Automation:
 Basic procedures and functions help automate operations like deposits and balance checks, reducing manual effort.
-Scalability Potential:
-The design can be extended to include:
+* Scalability Potential:
+The design can be extended to include:-
 Loans, branches, and employees
-Real-time transaction processing
-Advanced fraud detection systems
+Real-time transaction processing and
+Advanced fraud detection systems.
 
 
